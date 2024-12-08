@@ -1,7 +1,7 @@
 # Registro - Login con autencitacion
 
 Funciona con mySQL, lo rompi cuando quise cambiarlo a sql server.
-
+Todavia falta desarrollo
 
 ## Getting Started
 
